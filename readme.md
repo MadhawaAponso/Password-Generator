@@ -31,7 +31,7 @@ A full-stack **Random Password Generator** built with **React (Frontend)** and *
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/MadhawaAponso/password-generator.git
 cd password-generator
 ```
 
